@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 455f35ecbe1d5cd49993fa83988ff6a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SphereFunction: {fileID: 4404018675433736, guid: 97bc2d1262fc2ec41a1466332f168b98,
+      type: 2}
+  - SphereXAxis: {fileID: 4863679603268826, guid: d9666f8eec95e814b8d884360222fd45,
+      type: 2}
+  - SphereYAxis: {fileID: 4430421229004526, guid: a0bb63d737321f74390d55a6627f1b10,
+      type: 2}
+  - SphereZAxis: {fileID: 4372990701466848, guid: 68f42810a9f8ded4e9b940119674ca99,
+      type: 2}
+  - inputField: {instanceID: 0}
+  - btnSphere: {instanceID: 0}
+  - btnSurface: {instanceID: 0}
+  - btnMesh: {instanceID: 0}
+  - dropDown: {instanceID: 0}
+  - blueCylinder: {instanceID: 0}
+  - redCylinder: {instanceID: 0}
+  - greenCylinder: {instanceID: 0}
+  - greenCube: {instanceID: 0}
+  - redCube: {instanceID: 0}
+  - blueCube: {instanceID: 0}
+  - meshObject: {instanceID: 0}
+  - MeshMaterial: {fileID: 2100000, guid: 0637b5bb254d07641bb94e5880087c88, type: 2}
+  - camera: {instanceID: 0}
+  - mesh: {instanceID: 0}
+  - terrain: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
